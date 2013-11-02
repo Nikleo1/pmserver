@@ -1,0 +1,132 @@
+{
+    "Default": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
+    "Development": ["3ac700dd-177c-440c-881a-6ae714ed4103","50aad080-dfcd-4490-9816-f804e4e4bb82","a1798eaf-c628-482e-9b35-e3cebd45eadc"],
+    "ServerList": [
+        {
+            "ID" : "2f4d2a89-afc0-403f-b258-6689ad360561",
+            "Name" : "TEST NIKLAS",
+            "URL": "http://1.1.1.8/pm/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Baden-WÃ¼rttemberg. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/bw/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "07af31ca-1e54-4053-b747-2aa8948a8abc",
+            "Name" : "BTW - Bayern",
+            "URL" : "http://btw.piraten-thueringen.de/by/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Bayern. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/by/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "006f077e-755f-4006-8195-116b31bbbd3d",
+            "Name" : "BTW - Berlin",
+            "URL" : "http://btw.piraten-thueringen.de/be/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Berlin. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/be/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "41946eb2-3331-4ca7-b5fe-d75ce4b3ec8d",
+            "Name" : "BTW - Brandenburg",
+            "URL" : "http://btw.piraten-thueringen.de/bb/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Brandenburg. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/bb/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "eaec5ca0-8da8-4a62-a3a7-5df6014b9e35",
+            "Name" : "BTW - Bremen",
+            "URL" : "http://btw.piraten-thueringen.de/hb/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Bremen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/hb/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "4d780c19-a26b-45cf-99ee-896e16e57ee4",
+            "Name" : "BTW - Hamburg",
+            "URL" : "http://btw.piraten-thueringen.de/hh/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Hamburg. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/hh/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "868db583-c624-4cb1-878b-4fba2d2036b3",
+            "Name" : "BTW - Hessen",
+            "URL" : "http://btw.piraten-thueringen.de/he/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Hessen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/he/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "bc4c8212-9685-4964-9d17-1573ca2243f8",
+            "Name" : "BTW - Mecklenburg-Vorpommern",
+            "URL" : "http://btw.piraten-thueringen.de/mv/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Mecklenburg-Vorpommern. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/mv/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "ef863dd0-f894-4ce4-8dcb-4f8fc0a4e640",
+            "Name" : "BTW - Niedersachsen",
+            "URL" : "http://btw.piraten-thueringen.de/ni/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Niedersachsen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/ni/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "541d6eff-7371-4bc2-9103-38128c086c92",
+            "Name" : "BTW - Nordrhein-Westfalen",
+            "URL" : "http://btw.piraten-thueringen.de/nw/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Nordrhein-Westfalen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/nw/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "e5a23295-caa2-4e88-a231-f44b3551b9f7",
+            "Name" : "BTW - Rheinland-Pfalz",
+            "URL" : "http://btw.piraten-thueringen.de/rp/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Rheinland-Pfalz. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/rp/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "9bb5633e-b2bc-4e3f-b1d3-3d808ebb4b24",
+            "Name" : "BTW - Saarland",
+            "URL" : "http://btw.piraten-thueringen.de/sl/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Saarland. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/sl/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "f2b7ba7b-91c4-43e9-a055-d9b6c3dfa642",
+            "Name" : "BTW - Sachsen",
+            "URL" : "http://btw.piraten-thueringen.de/sn/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Sachsen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/sn/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "45343fd2-8aee-4f97-b865-571dd38e7f1d",
+            "Name" : "BTW - Sachsen-Anhalt",
+            "URL" : "http://btw.piraten-thueringen.de/st/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Sachsen-Anhalt. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/st/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "77a8f95a-abd0-431c-a5b3-9203a1cbc3f6",
+            "Name" : "BTW - Schleswig-Holstein",
+            "URL" : "http://btw.piraten-thueringen.de/sh/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r Schleswig-Holstein. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/sh/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID" : "cf09abea-db16-4446-82e9-1d8260261899",
+            "Name" : "BTW - ThÃ¼ringen",
+            "URL" : "http://btw.piraten-thueringen.de/th/",
+            "Info" : "Server fÃ¼r die Bundestagswahl fÃ¼r ThÃ¼ringen. Zum Einloggen entweder Wiki-Login benutzen oder <a href=\"http://btw.piraten-thueringen.de/th/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID": "6b92dec1-fbfb-4fc8-ad4b-b276c0f70359",
+            "Name": "Unterfranken",
+            "URL": "https://piraten-ufr.de/plakate/",
+            "Info": "Server fÃ¼r Unterfranken. Achtung: Nicht fÃ¼r BTW-Plakate!!!"
+        },
+        {
+            "ID": "a1798eaf-c628-482e-9b35-e3cebd45eadc",
+            "Name": "Niedersachsen",
+            "URL": "https://plakate.piraten-nds.de/",
+            "Info": "Server fÃ¼r Niedersachsen. Als Login bitte euer Wiki Login benutzten oder <a href=\"http://plakate.piraten-nds.de/\">hier</a> einen Account erstellen."
+        },
+        {
+            "ID": "50aad080-dfcd-4490-9816-f804e4e4bb82",
+            "Name": "Nordrhein-Westfalen (Aachen)",
+            "URL": "http://pk.piraten-aachen.de/",
+            "Info": "Server fÃ¼r NRW. Weitere Informationen im <a href=\"http://wiki.piratenpartei.de/Plakatkarte_NRW\">Wiki</a>.<br/>Ansprechpartner: Upuetz, boupirac"
+        },
+		{
+            "ID": "50aad080-dfcd-4490-9816-f804e4e4bb84",
+            "Name": "Testserver local",
+            "URL": "http://1.1.1.8/pm/",
+            "Info": "Testserver local. Weitere Informationen im <a href=\"http://wiki.piratenpartei.de/Plakatkarte_NRW\">Wiki</a>.<br/>Ansprechpartner: Upuetz, boupirac"
+        },
+        {
+            "ID": "3ac700dd-177c-440c-881a-6ae714ed4103",
+            "Name": "Niedersachsen (Test Server)",
+            "URL": "http://piraten.boombuler.de/",
+            "Info": "Test- und Entwicklerserver"
+        }
+    ]
+}
